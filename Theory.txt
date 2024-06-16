@@ -1,0 +1,19 @@
+1.Read only(getter method)
+2.Write only.(setter method)
+
+Constructor:
+
+initialize the properties at the time of construction;or object creation;
+constructor is called automatically whwnever we are creating an object:
+Every class has default constructor  if no explicit constructor provided by programmer, compiler provides one for us.
+-new keyword creates a new instance of that class and calls constructor to initialize it with some default values.
+-using new keyword, constructor will be invoked by default.
+-without using new keyword, it won't be invoked.
+constructor have same name as class.
+it dont have returnn type.
+we can use (this) keyword to refer to current.
+it's of two types 
+1.parameterised
+2.non parameterised
+
+As like method overloading we have construction overloading  also in java but with some restrictions :

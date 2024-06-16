@@ -1,0 +1,13 @@
+There are two types of class in java:
+1.concrete class
+2.Abstarct class
+you can create object of concrete class but not  able to create the object of abstract class:
+But you can create refernce of abstarct class:
+
+Abstarct method:
+The class which has no body or undefined or there is no definition:
+Abstarct class:
+The class contain atleast one abstarct method then it is called as abstract class 
+
+Abstarct class and method can't be final because if it final then it can't be override :
+it cant be static:
