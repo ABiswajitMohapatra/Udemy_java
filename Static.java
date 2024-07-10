@@ -1,11 +1,11 @@
 public class Static {
     public static void main(String[] args) {
-        Test t=new Test();
-         t.display();
-         t.dis();
+        // Test t=new Test();
+        //  t.display();
+        //  t.dis();
         // // t.x=60;
         // // t.y=70;
-         t.display();
+        //t.display();
 
         //STATIC METHOD OR VARIABLE CAN BE CALL WITHOUT OBJECT ALSO:
         System.out.println(Test.x);
